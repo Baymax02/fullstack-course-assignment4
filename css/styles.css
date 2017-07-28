@@ -1,0 +1,9 @@
+body {
+  font-size: 1.2em;
+  font-family:Verdana, Arial, Helvetica, sans-serif;
+}
+
+.category li { cursor: pointer; text-decoration: underline; }
+.category li:link { color: #5900ff; }
+.category li:visited { color:#ff0000; }
+.category li:hover { color: #5900ff; }
